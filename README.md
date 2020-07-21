@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center" >
+  <a href="https://github-readme-stats.vercel.app/api?username=petrnymsa"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=petrnymsa&&show_icons=true"/>
+  </a>
+  </p>
 
 <!--
 **petrnymsa/petrnymsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
